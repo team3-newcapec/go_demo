@@ -1,0 +1,16 @@
+# go api server
+
+提供 api 接口
+
+监听端口：8080
+
+api: 
+
+    "localhost:8080/"
+    "localhost:8080/a" 
+    
+build.bat
+
+可以在win环境中，
+将服务main.go编译为,
+运行在linux的二进制文件.
